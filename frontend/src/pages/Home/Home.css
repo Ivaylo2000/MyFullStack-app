@@ -3,6 +3,6 @@
   align-items: center;
   justify-content: center;
 }
-.mainPage > img {
-  height: 628px;
+.mainPage > h1 {
+  text-align: center;
 }
