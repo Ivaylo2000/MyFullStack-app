@@ -1,0 +1,8 @@
+.mainPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mainPage > img {
+  height: 628px;
+}

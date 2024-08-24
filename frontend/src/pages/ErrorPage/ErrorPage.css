@@ -1,0 +1,30 @@
+.errorPageWrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-top: 130px;
+}
+.errorPageWrapper > h1,
+.errorPageWrapper > p {
+  text-transform: uppercase;
+}
+.errorPageWrapper > button {
+  margin-top: 30px;
+  background-color: #000000;
+  color: #ffffff;
+  height: 40px;
+  width: 280px;
+  cursor: pointer;
+}
+@media (max-width: 767px) {
+  .errorPageWrapper {
+    text-align: center;
+  }
+  .errorPageWrapper > h1 {
+    width: 90%;
+  }
+  .errorPageWrapper > p {
+    width: 90%;
+  }
+}
