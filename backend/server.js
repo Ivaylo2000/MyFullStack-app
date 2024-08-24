@@ -15,7 +15,7 @@ server.use(cookieParser());
 
 server.use(
   cors({
-    origin: process.env.CORS_ORIGIN,
+    origin: "https://my-full-stack-app-2fds.vercel.app",
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
     credentials: true,
