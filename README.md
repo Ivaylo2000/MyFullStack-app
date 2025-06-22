@@ -1,37 +1,44 @@
-<h2 align="center">Clothing App</h2>
-<h4 >This is my first full-stack web application that allows users to register, browse products, and manage a shopping cart. The project is built with the MERN tech stack including React, Node.js, MongoDB and Express.
+<h2 align="center">👕 Clothing App</h2>
+
+<h4 align="center">
+  This is my first full-stack web application where users can register, browse products, and manage a shopping cart. Built with the MERN tech stack: React, Node.js, MongoDB, and Express.
 </h4>
 
-🚀 <a href="https://my-full-stack-app-2fds.vercel.app/products" target="_blank">**Live Demo**</a>
+#### 🚀 <a href="https://my-full-stack-app-2fds.vercel.app/products" target="_blank"><strong>Live Demo</strong></a>
 
-**Test Account :**
-  
-- Email: 📧 testaccount@test.com 
+---
 
-- Password: 🔑 test
+### 🧪 Test Account
 
+- 📧 **Email:** `testaccount@test.com`  
+- 🔑 **Password:** `test`
 
-🖥️ Features
+---
 
-🔐 Authentication
+### 🖥️ Features
 
-- Email availability check
+##### 🔐 Authentication
 
-📸 Product Listings
+- Email availability check during signup
 
- **Users can:**
-
-- View listings of products and sort them
-
-🛒 Shopping Cart
+##### 📸 Product Listings
 
 **Users can:**
 
-- Add products to their cart
-- The cart is stored into the database
+- View product listings  
+- Sort products by various criteria
 
-<h4 align="left">Tech Stack</h4>
-<p align="left"> <img
-      src="https://skillicons.dev/icons?i=react,css,nodejs,expressjs,mongodb&theme=dark&perline=15"
-      alt="My Skills"
-    /> </p>
+##### 🛒 Shopping Cart
+
+**Users can:**
+
+- Add products to their cart  
+- Cart data is saved in the database for persistence
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,css,nodejs,expressjs,mongodb&theme=dark&perline=15" alt="Tech Stack Icons" />
+</p>
